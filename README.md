@@ -551,7 +551,7 @@ plt.plot(history.history['val_loss'])
 
 
     
-![png](output_22_1.png)
+![png](download.png)
     
 
 
