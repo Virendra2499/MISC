@@ -545,7 +545,7 @@ plt.plot(history.history['val_loss'])
 
 
 
-    [<matplotlib.lines.Line2D at 0x79025952b640>]
+    
 
 
 
@@ -564,11 +564,11 @@ plt.plot(history.history['val_accuracy'])
 
 
 
-    [<matplotlib.lines.Line2D at 0x7902595fa050>]
+    
 
 
 
 
     
-![png](output_23_1.png)
+![png](Accuracy.png)
     
